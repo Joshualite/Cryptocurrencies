@@ -23,3 +23,6 @@ In the fourth phase, we basically focused on visualizing the information we alre
 
 ![image](https://user-images.githubusercontent.com/66183125/152703420-ce4ef3ef-86ac-49e3-8316-ade073a29664.png)
 
+Conclusion
+
+As we can see, it is also possible to categorize what type of cryptocurrency we can invest in, since today new cryptocurrencies are generated and some do leave very good returns, but like this there are cryptocurrencies that only appear for a short period of time and later they disappear so it translates into a loss for investors, if we can compare the currencies and with this follow the same pattern of the currencies that have lasted without a doubt we will be able to choose a better way to invest instead of just speculating on which cryptocurrency will leave us better profit
